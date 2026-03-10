@@ -1,16 +1,35 @@
-## Hi there 👋
+### 안녕하세요, 김찬희입니다 👋
 
-<!--
-**kchs0529/kchs0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 개발자입니다.  
+만들고, 부수고, 그 과정에서 배우고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+**Projects**
+
+| Repo | Description |
+|------|-------------|
+| [TxtToExcel-SECS](https://github.com/kchs0529/TxtToExcel-SECS) | SECS 메시지 데이터를 Excel로 변환 |
+| [WorldcupWebProject](https://github.com/MS5682/WorldcupWebProject) | 이상형 월드컵 & 퀴즈/룰렛 웹 서비스 (Spring Boot, Java, 4인) |
+| [greentrade](https://github.com/lsy28901/greentrade) | Java/JSP 기반 중고 거래 사이트 (4인) |
+
+---
+
+**Most Used Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchs0529&layout=compact&hide_border=true&langs_count=6)
+
+---
+
