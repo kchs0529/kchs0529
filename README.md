@@ -27,9 +27,4 @@ Java 개발자입니다.
 
 ---
 
-**Most Used Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kchs0529&layout=compact&hide_border=true&langs_count=6)
-
----
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kchs0529&theme=default)
